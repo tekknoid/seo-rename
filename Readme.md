@@ -6,6 +6,7 @@ Is a _simple_ massive media file renaming utility built in Rust.
 ### Features
 
 - Accept dictionary of keywords.
+- Auto increase file name if alternative not found.
 - Check file existance to do not overwrite it.
 
 ### Usage

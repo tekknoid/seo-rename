@@ -1,6 +1,6 @@
 [package]
 name = "seo-rename"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["andrejs <technoid@pm.me>"]
 edition = "2018"
 
@@ -8,6 +8,7 @@ edition = "2018"
 
 [dependencies]
 rand = "0.8.3"
+colored = "2"
 
 [profile.dev]
 opt-level = 0
